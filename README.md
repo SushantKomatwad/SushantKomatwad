@@ -1,4 +1,3 @@
-![logo](https://github.com/SushantKomatwad/SushantKomatwad/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Sushant Pandurang Komatwad</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
